@@ -129,7 +129,31 @@
         <li class="nav-item">
           <a href="/#outreach" data-target="#outreach">
             
-            <span>Oureach</span>
+            <span>Outreach</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#posts" data-target="#posts">
+            
+            <span>Blog</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#news" data-target="#news">
+            
+            <span>News</span>
           </a>
         </li>
 
@@ -258,7 +282,7 @@
 
   
   
-  <section id="publications_selected" class="home-section">
+  <section id="projects" class="home-section">
     <div class="container">
       
 
@@ -266,105 +290,86 @@
 
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Selected Publications</h1>
+    <h1>Projects</h1>
     
   </div>
   <div class="col-xs-12 col-md-8">
     
 
     
-      
+    
+    <span class="hidden default-project-filter">*</span>
     
 
     
-    
-      
-        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
-
-    
-
-    <div class="col-md-12">
-      <a href="https://shenii.github.io/publication/clothing-search/">
-        <img src="/img/headers/bubbles-wide.jpg" class="pub-banner" itemprop="image">
-      </a>
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group">
+            
+              <a href="#" data-filter="*" class="btn btn-primary btn-large active">All</a>
+            
+              <a href="#" data-filter=".deep-learning" class="btn btn-primary btn-large">Deep Learning</a>
+            
+              <a href="#" data-filter=".demo" class="btn btn-primary btn-large">Other</a>
+            
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="col-md-12">
+    
 
     
 
-      <h3 class="article-title" itemprop="name">
-        <a href="https://shenii.github.io/publication/clothing-search/" itemprop="url">Mobile visual clothing search</a>
-      </h3>
+    <div class="row isotope projects-container">
 
-      <div class="pub-abstract" itemprop="text">
-        
-        A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone&rsquo;s GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on.
-        
+      
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item deep-learning">
+        <div class="card">
+          
+          <a href="https://shenii.github.io/project/deep-learning/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/bubbles.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="https://shenii.github.io/project/deep-learning/" >Deep Learning</a></h4>
+            <div class="card-desription">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+          </div>
+        </div>
       </div>
-
-      <div class="pub-authors" itemprop="author">
-        
-        GA Cushen, MS Nixon
-        
+      
+      
+      
+      
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item demo">
+        <div class="card">
+          
+          <a href="http://example.org" title="" class="card-image hover-overlay"
+             target="_blank">
+            <img src="/img/boards.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="http://example.org" target="_blank">External Project</a></h4>
+            <div class="card-desription">
+              <p>An example of linking directly to an external project website using <code>external_link</code>.</p>
+            </div>
+          </div>
+        </div>
       </div>
-
-      <div class="pub-publication">
-        In <em>ICMEW</em>,&nbsp;2013.
-      </div>
-
-      <div class="pub-links">
-        
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/publication/clothing-search/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf">
-  PDF
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/">
-  Slides
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/">
-  Video
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/">
-  Code
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/">
-  Dataset
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/project/deep-learning/">
-  Project
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://www.example.org">
-  Custom Link
-</a>
-
-
-      </div>
+      
 
     </div>
-  </div>
-</div>
 
-      
     
 
   </div>
@@ -384,7 +389,7 @@
 
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Recent Publications</h1>
+    <h1>Publications</h1>
     
     
   </div>
@@ -396,90 +401,6 @@
     
 
     
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">A Person Re-Identification System For Mobile Devices</span>
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/publication/person-re-identification/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://arxiv.org/pdf/1512.04133v1">
-  PDF
-</a>
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/project/deep-learning/">
-  Project
-</a>
-
-
-</p>
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">Mobile visual clothing search</span>
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/publication/clothing-search/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf">
-  PDF
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/">
-  Slides
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/">
-  Video
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/">
-  Code
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/">
-  Dataset
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://shenii.github.io/project/deep-learning/">
-  Project
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://www.example.org">
-  Custom Link
-</a>
-
-</p>
-</div>
-
-      
     
 
   </div>
@@ -959,104 +880,6 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
 
       
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  <section id="projects" class="home-section">
-    <div class="container">
-      
-
-
-
-<div class="row">
-  <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Projects</h1>
-    
-  </div>
-  <div class="col-xs-12 col-md-8">
-    
-
-    
-    
-    <span class="hidden default-project-filter">*</span>
-    
-
-    
-    <div class="project-toolbar">
-      <div class="project-filters">
-        <div class="btn-toolbar">
-          <div class="btn-group">
-            
-              <a href="#" data-filter="*" class="btn btn-primary btn-large active">All</a>
-            
-              <a href="#" data-filter=".deep-learning" class="btn btn-primary btn-large">Deep Learning</a>
-            
-              <a href="#" data-filter=".demo" class="btn btn-primary btn-large">Other</a>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-    
-
-    
-
-    <div class="row isotope projects-container">
-
-      
-      
-      
-      
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item deep-learning">
-        <div class="card">
-          
-          <a href="https://shenii.github.io/project/deep-learning/" title="" class="card-image hover-overlay"
-             >
-            <img src="/img/bubbles.jpg" alt="" class="img-responsive">
-          </a>
-          
-          <div class="card-text">
-            <h4><a href="https://shenii.github.io/project/deep-learning/" >Deep Learning</a></h4>
-            <div class="card-desription">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      
-      
-      
-      
-      
-      
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item demo">
-        <div class="card">
-          
-          <a href="http://example.org" title="" class="card-image hover-overlay"
-             target="_blank">
-            <img src="/img/boards.jpg" alt="" class="img-responsive">
-          </a>
-          
-          <div class="card-text">
-            <h4><a href="http://example.org" target="_blank">External Project</a></h4>
-            <div class="card-desription">
-              <p>An example of linking directly to an external project website using <code>external_link</code>.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-
-    </div>
-
     
 
   </div>
