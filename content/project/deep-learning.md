@@ -3,13 +3,13 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Deep Learning"
+title = "Evolutionary ecology of species interactions"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "We are studying the consequences of multiple infections for virulence evolution within the context of ecological feedbacks driving the epidemiology and evolution of parasites."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "ees.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
