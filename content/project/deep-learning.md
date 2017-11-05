@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Evolutionary ecology of species interactions"
+title = "Evolutionary ecology of multiple infections"
 
 # Project summary to display on homepage.
 summary = "We are studying the consequences of multiple infections for virulence evolution within the context of ecological feedbacks driving the epidemiology and evolution of parasites."
