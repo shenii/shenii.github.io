@@ -188,13 +188,13 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
-  name = "Blog"
-  url = "#posts"
+  name = "CV"
+  url = "Yitbarek_Senay_November_2017_CV.pdf"
   weight = 6
   
 [[menu.main]]
   name = "News"
-  url = "#news"
+  url = "#talks"
   weight = 7
 
 [[menu.main]]

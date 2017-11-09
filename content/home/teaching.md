@@ -14,14 +14,14 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+2014 Astrobiology: The Science of Origins (Honors 242). 
 
-I am a teaching instructor for the following courses at University X:
+2013 Teaching Assistant, Intro Biology Lab (EEB 173). 
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+2011 Teaching Assistant, Intro Biology (EEB 101). 
+
+2010 Teaching Assistant, Ecology and Evolution of Infectious Diseases (EEB 315).
+
+2009 Teaching Assistant, Intro Biology (EEB 101).
+
+2008 Teaching Assistant, Intro Biology (EEB 172).
