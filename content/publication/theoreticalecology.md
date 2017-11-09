@@ -12,7 +12,7 @@ title = "Senay Yitbarek, J.H. Vandermeer. 2017. Reduction of species coexistence
 url_code = "https://link.springer.com/article/10.1007/s12080-017-0341-4"
 url_dataset = "#"
 url_pdf = ""
-#url_project = "project/deep-learning/"
+url_project = "project/deep-learning/"
 url_slides = "#"
 url_video = "#"
 
