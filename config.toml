@@ -184,7 +184,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Outreach"
-  url = "#outreach"
+  url = "#posts"
   weight = 5
 
 [[menu.main]]
