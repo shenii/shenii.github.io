@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Evolutionary ecology of multiple infections"
 
 # Project summary to display on homepage.
-summary = "We are studying the consequences of multiple infections for virulence evolution within the context of ecological feedbacks driving the epidemiology and evolution of parasites."
+summary = "We are studying the consequences of multiple infections for virulence evolution. By combining experimental evolution with mathematical modeling, we seek to understand coinfection dynamics within the context of ecological feedbacks driving the epidemiology and evolution of parasites."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "ees.jpg"
