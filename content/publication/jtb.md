@@ -9,7 +9,7 @@ publication_types = ["2"]
 publication = "Journal of Theoretical Biology"
 publication_short = ""
 selected = false
-title = "J.H. Vandermeer, Senay Yitbarek*. 2012. Self-organized spatial pattern determines biodiversity in spatial competition. Journal of Theoretical Biology"
+title = "John H. Vandermeer, Senay Yitbarek. 2012. Self-organized spatial pattern determines biodiversity in spatial competition. Journal of Theoretical Biology"
 url_code = "http://www.sciencedirect.com/science/article/pii/S0022519312000069"
 
 url_dataset = ""
