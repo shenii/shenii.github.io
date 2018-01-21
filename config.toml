@@ -1,5 +1,5 @@
 baseurl = "https://shenii.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Spatial disease evolution"
+title = "Spatial disease evolution & ecology"
 copyright = "&copy; 2017 Senay Yitbarek"
 theme = "hugo-academic"
 enableEmoji = true
@@ -91,7 +91,7 @@ defaultContentLanguageInSubdir = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
+  highlight_languages = ["r"]
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
