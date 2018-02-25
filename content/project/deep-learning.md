@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Evolutionary ecology of multiple infections"
 
 # Project summary to display on homepage.
-summary = "We are studying the consequences of multiple infections for virulence evolution. By combining experimental evolution with mathematical modeling, we seek to understand coinfection dynamics within the context of ecological feedbacks driving the epidemiology and evolution of parasites."
+summary = "I am studying the consequences of multiple infections for virulence evolution. Using a joint experimental evolution and modeling approach, I seek to understand how coinfection dynamics shape the evolution of pathogens across different environments."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "ees.jpg"
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
 
@@ -33,5 +33,3 @@ My research focuses broadly on the ecology and evolution of infectious diseases.
 I am investigating how co-infection dynamics impact evolutionary outcomes in spatially structured host populations. Specifically, I am addressing the following questions: 1) How does pathogen relatedness affect the outcome of co-infection? 2) How does the arrival and timing of multiple pathogens impact within-host dynamics? 3) How do co-infection dynamics alter populations of hosts and parasites? 
 
 To test these questions, I am experimentally evolving hosts and parasites in the laboratory to study the effects of changes in life-history traits on parasite fitness. I am using an insect system to examine how transmission rates by multiple pathogens change as the consequence of host population structure. To this end, I am experimentally manipulating the viscosity of the environment that insects inhabit and thereby indirectly modifying their movement rates. In a similar vein, I use bacteriophage experiments to examine how phages compete for bacterial hosts across spatial habitats using microfluidic devices. I am developing spatially explicit, individual based models to capture essential features of the experimental system. 
-
-+++
