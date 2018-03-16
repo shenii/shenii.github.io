@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>https://shenii.github.io/project/deep-learning/</loc>
+      <loc>https://shenii.github.io/project/invasion/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +104,16 @@
     
     <url>
     
-      <loc>https://shenii.github.io/project/example-external-project/</loc>
+      <loc>https://shenii.github.io/project/coinfection/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://shenii.github.io/project/vectors/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -150,7 +159,7 @@
     
     <url>
     
-      <loc>https://shenii.github.io/tags/deep-learning/</loc>
+      <loc>https://shenii.github.io/tags/coinfection/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -160,7 +169,7 @@
     
     <url>
     
-      <loc>https://shenii.github.io/tags/demo/</loc>
+      <loc>https://shenii.github.io/tags/invasion/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -202,6 +211,16 @@
     
       <loc>https://shenii.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://shenii.github.io/tags/vectors/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
