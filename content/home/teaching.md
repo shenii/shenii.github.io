@@ -14,14 +14,14 @@ weight = 60
 
 +++
 
-2014 Astrobiology: The Science of Origins (Honors 242). 
 
-2013 Teaching Assistant, Intro Biology Lab (EEB 173). 
 
-2011 Teaching Assistant, Intro Biology (EEB 101). 
+The Science of Origins (Honors 242). 
 
-2010 Teaching Assistant, Ecology and Evolution of Infectious Diseases (EEB 315).
+Genomics in Society (EEB 142)
 
-2009 Teaching Assistant, Intro Biology (EEB 101).
+Ecology and Evolution of Infectious Diseases (EEB 315).
 
-2008 Teaching Assistant, Intro Biology (EEB 172).
+Food, Energy, and the Environment (EEB 101).
+
+Introductory Biology (EEB 172 & 173).

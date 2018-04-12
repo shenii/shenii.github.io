@@ -9,8 +9,18 @@ title = "Outreach"
 subtitle = ""
 widget = "posts"
 
+# View.
+# Customize how projects are displayed.
+# Legend: 0 = list, 1 = cards.
+view = 1
+
+# Filter toolbar.
+
+# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
+filter_default = 0
+
 # Order that this section will appear in.
-weight = 40
+weight = 50
 
 # Filter posts by tag.
 #  By default, show all recent posts.

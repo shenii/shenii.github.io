@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Evolutionary ecology of multiple infections"
+title = "Coinfection and Parasite Interactions"
 
 # Project summary to display on homepage.
-summary = "I am studying the consequences of multiple infections for virulence evolution. Using a joint experimental evolution and modeling approach, I seek to understand how coinfection dynamics shape the evolution of pathogens across different environments."
+summary = "As a postoc, I am studying the consequences of multiple infections for virulence evolution. Using a joint experimental evolution and modeling approach, I seek to understand how coinfection dynamics shape the evolution of pathogens across different environments."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "ees.jpg"

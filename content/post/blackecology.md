@@ -6,17 +6,18 @@ date = "2018-03-19"
 title = "Black Ecologists"
 
 # Project summary to display on homepage.
-summary = "Black Ecology Section: Ecological Society of America"
+summary = "International Association of Black Ecologists."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "blackecology.jpg"
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["blackecology"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.esa.org/esa/education-and-diversity/diversity-in-ecology/"
 
 # Does the project detail page use math formatting?
 math = false
@@ -25,9 +26,10 @@ math = false
 [header]
 image = "blackecology.jpg"
 caption = "My caption :smile:"
+
 +++
 
-In the summer of 2015, a group of faculty and students gathered at the Ecological Society of America conference in Baltimore to highlight issues affecting black ecologists. Here we use the term “black” in an inclusive manner and define as minorities of different origins and nationalities including African Americans, Africans, Caribbeans, Latinos, and Native Americans. Non-black nationals with interest in furthering the goals of the association have specific roles. We must ensure a “safe space” for many members to address some of the challenges that Black ecologists face in academia. In an effort to address these issues, we decided to establish an international association of professionals that can provide academic, social, and cultural support for Black ecologists. Specifically, Drs. Nyeema Harris (UM EEB Assistant Professor, Jasmine Crumsey (UM EEB PhD alumna, currently Stanford Postdoc) and Senay Yitberak (UM EEB PhD alumnus, currently UC Berkeley Postdoc) are the founders of the Black Ecologist Section of the Ecological Society of America (ESA). 
+In the summer of 2015, a group of faculty and students gathered at the Ecological Society of America conference in Baltimore to highlight issues affecting black ecologists. Here we use the term “black” in an inclusive manner and define as minorities of different origins and nationalities including African Americans, Africans, Caribbeans, Latinos, and Native Americans. Non-black nationals with interest in furthering the goals of the association have specific roles. We must ensure a “safe space” for many members to address some of the challenges that Black ecologists face in academia. In an effort to address these issues, we decided to establish an international association of professionals that can provide academic, social, and cultural support for Black ecologists. Specifically, Drs. Nyeema Harris (UM EEB Assistant Professor, Jasmine Crumsey (UM EEB PhD alumna, currently University of Georgia) and Senay Yitberak (UM EEB PhD alumnus, currently UC Berkeley Postdoc) are the founders of the Black Ecologist Section that was formally established in August 2016 within the Ecological Society of America (ESA). 
 
 Our section aims are to: 
 
