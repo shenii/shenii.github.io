@@ -14,7 +14,7 @@ url_code = "http://www.sciencedirect.com/science/article/pii/S0022519312000069"
 
 url_dataset = ""
 url_pdf = ""
-url_project = "project/deep-learning/"
+url_project = ""
 url_slides = ""
 url_video = ""
 

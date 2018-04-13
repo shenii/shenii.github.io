@@ -3,7 +3,7 @@
 date = "2018-03-19"
 
 # Project title.
-title = "Black Ecologists"
+title = "Ecological Society of America: Black Ecologist Section"
 
 # Project summary to display on homepage.
 summary = "International Association of Black Ecologists."
