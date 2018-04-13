@@ -10,12 +10,12 @@ publication = "Environmental Entomology"
 publication_short = ""
 selected = false
 title = "Senay Yitbarek, John H. Vandermeer, Dave Allen. 2011. The Combined Effects of Exogenous and Endogenous Variability on the Spatial Distribution of Ant Communities in a Forested Ecosystem (Hymenoptera: Formicidae). Environmental Entomology"
-url_code = "https://academic.oup.com/ee/article-abstract/40/5/1067/414720"
-#url_dataset = ""
-#url_pdf = ""
-#url_project = "project/deep-learning/"
-#url_slides = ""
-#url_video = ""
+url_code = "http://www.bioone.org/doi/abs/10.1603/EN11058"
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
 
 +++
 

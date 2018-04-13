@@ -10,20 +10,12 @@ publication_short = "Theory"
 selected = true
 title = "Senay Yitbarek, John H. Vandermeer. 2017. Reduction of species coexistence through mixing in a spatial competition model. Theoretical ecology"
 url_code = "https://link.springer.com/article/10.1007/s12080-017-0341-4"
-url_dataset = "#"
+url_dataset = ""
 url_pdf = ""
-url_project = "project/deep-learning/"
-url_slides = "#"
-url_video = "#"
+url_project = ""
+url_slides = ""
+url_video = ""
 
-[[url_custom]]
-name = "Custom Link"
-url = ""
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
 
 +++
 

@@ -5,17 +5,17 @@ authors = ["Senay Yitbarek, John H. Vandermeer, Ivette Perfecto"]
 date = "2018-01-24"
 image_preview = ""
 math = true
-publication_types = ["2"]
+publication_types = ["1"]
 publication = "bioRxiv"
 publication_short = ""
 selected = false
 title = "Senay Yitbarek, John H. Vandermeer, Ivette Perfecto*. 2017. Parasite mediated competition facilitates invasion (Hymenoptera: Formicidae). BioRxiv"
-url_code = "https://academic.oup.com/ee/article-abstract/40/5/1067/41472"
-url_dataset = ""
-url_pdf = ""
-url_project = "project/deep-learning/"
-url_slides = ""
-url_video = ""
+#url_code = "https://academic.oup.com/ee/article-abstract/40/5/1067/41472"
+#url_dataset = ""
+#url_pdf = ""
+#url_project = "project/deep-learning/"
+#url_slides = ""
+#url_video = ""
 
 +++
 

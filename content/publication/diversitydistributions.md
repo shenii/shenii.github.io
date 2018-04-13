@@ -13,7 +13,7 @@ title = "Senay Yitbarek, Ivette Perfecto, John H. Vandermeer. 2017. From insinua
 url_code = "http://onlinelibrary.wiley.com/doi/10.1111/ddi.12568/full"
 url_dataset = ""
 url_pdf = ""
-url_project = "project/deep-learning/"
+url_project = ""
 url_slides = ""
 url_video = ""
 
