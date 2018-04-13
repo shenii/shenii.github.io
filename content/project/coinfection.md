@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Coinfection and Parasite Interactions"
+title = "The Community Ecology of Pathogens: Coinfection and Spatial Structuring"
 
 # Project summary to display on homepage.
 summary = "As a postoc, I am studying the consequences of multiple infections for virulence evolution. Using a joint experimental evolution and modeling approach, I seek to understand how coinfection dynamics shape the evolution of pathogens across different environments."
