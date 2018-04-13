@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Spatial structure and invasion dynamics structuring communities"
+title = "Spatial competition and invasion dynamics"
 
 # Project summary to display on homepage.
 summary = "My PhD research examined the consequences of species invasions on community dynamics.Using invasive ants as a model system, I investigated the role of direct and indirect interactions such as competition and parasitism on resident species. I further developed spatial models to understand under what conditions species can invade communities "
