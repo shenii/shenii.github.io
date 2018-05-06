@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>https://shenii.github.io/tags/academic/</loc>
+      <loc>https://shenii.github.io/tags-senayberkeley.edu/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -209,7 +209,16 @@
     <url>
     
       <loc>https://shenii.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://shenii.github.io/tags-senayberkeley.edu/</loc>
       <priority>0</priority>
     </url>
     
