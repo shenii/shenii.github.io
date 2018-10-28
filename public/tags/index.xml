@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Spatial Evolution</title>
-    <link>https://senay.io/tags/</link>
+    <link>https://senay.i0/tags/</link>
     <description>Recent content in Tags on Spatial Evolution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Senay Yitbarek</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://senay.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://senay.i0/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://senay.io/tags/academic/</link>
+      <link>https://senay.i0/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/tags/academic/</guid>
+      <guid>https://senay.i0/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Blackecology</title>
-      <link>https://senay.io/tags/blackecology/</link>
+      <link>https://senay.i0/tags/blackecology/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/tags/blackecology/</guid>
+      <guid>https://senay.i0/tags/blackecology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coinfection</title>
-      <link>https://senay.io/tags/coinfection/</link>
+      <link>https://senay.i0/tags/coinfection/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/tags/coinfection/</guid>
+      <guid>https://senay.i0/tags/coinfection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://senay.io/tags/deep-learning/</link>
+      <link>https://senay.i0/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/tags/deep-learning/</guid>
+      <guid>https://senay.i0/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://senay.io/tags/demo/</link>
+      <link>https://senay.i0/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/tags/demo/</guid>
+      <guid>https://senay.i0/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://senay.io/tags/hugo/</link>
+      <link>https://senay.i0/tags/hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://senay.io/tags/hugo/</guid>
+      <guid>https://senay.i0/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Invasion</title>
-      <link>https://senay.io/tags/invasion/</link>
+      <link>https://senay.i0/tags/invasion/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/tags/invasion/</guid>
+      <guid>https://senay.i0/tags/invasion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>https://senay.io/tags/jekyll/</link>
+      <link>https://senay.i0/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://senay.io/tags/jekyll/</guid>
+      <guid>https://senay.i0/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>https://senay.io/tags/plot/</link>
+      <link>https://senay.i0/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://senay.io/tags/plot/</guid>
+      <guid>https://senay.i0/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://senay.io/tags/r-markdown/</link>
+      <link>https://senay.i0/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://senay.io/tags/r-markdown/</guid>
+      <guid>https://senay.i0/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>https://senay.io/tags/regression/</link>
+      <link>https://senay.i0/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://senay.io/tags/regression/</guid>
+      <guid>https://senay.i0/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vectors</title>
-      <link>https://senay.io/tags/vectors/</link>
+      <link>https://senay.i0/tags/vectors/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/tags/vectors/</guid>
+      <guid>https://senay.i0/tags/vectors/</guid>
       <description></description>
     </item>
     
