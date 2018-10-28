@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blackecology on Spatial Evolution</title>
+    <link>https://senay.io/tags/blackecology/</link>
+    <description>Recent content in Blackecology on Spatial Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Senay Yitbarek</copyright>
+    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://senay.io/tags/blackecology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ecological Society of America: Black Ecologist Section</title>
+      <link>https://senay.io/post/blackecology/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://senay.io/post/blackecology/</guid>
+      <description>In the summer of 2015, a group of faculty and students gathered at the Ecological Society of America conference in Baltimore to highlight issues affecting black ecologists. Here we use the term “black” in an inclusive manner and define as minorities of different origins and nationalities including African Americans, Africans, Caribbeans, Latinos, and Native Americans. Non-black nationals with interest in furthering the goals of the association have specific roles. We must ensure a “safe space” for many members to address some of the challenges that Black ecologists face in academia.</description>
+    </item>
+    
+  </channel>
+</rss>
