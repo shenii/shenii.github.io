@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Spatial Evolution</title>
-    <link>https://senay.i0/talk/</link>
+    <link>https://senay.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Spatial Evolution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Senay Yitbarek</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://senay.i0/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://senay.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Averting the Tragedy of the Commons: Critical Feedbacks across Scales from Microbes to Humans symposium has been accepted for the 2018 Ecological Society of America Conference held in New Orleans!</title>
-      <link>https://senay.i0/talk/ecologysymposium/</link>
+      <link>https://senay.io/talk/ecologysymposium/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.i0/talk/ecologysymposium/</guid>
+      <guid>https://senay.io/talk/ecologysymposium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our joint symposium entitled Evolutionary Epidemiology across multiple scales has been accepted for the 2018 Evolution Conference held in Montepellier, France!</title>
-      <link>https://senay.i0/talk/evolutionsymposium/</link>
+      <link>https://senay.io/talk/evolutionsymposium/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.i0/talk/evolutionsymposium/</guid>
+      <guid>https://senay.io/talk/evolutionsymposium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://senay.i0/talk/example-talk/</link>
+      <link>https://senay.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.i0/talk/example-talk/</guid>
+      <guid>https://senay.io/talk/example-talk/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Spatial Evolution</title>
-    <link>https://senay.i0/post/</link>
+    <link>https://senay.io/post/</link>
     <description>Recent content in Posts on Spatial Evolution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Senay Yitbarek</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://senay.i0/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://senay.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ecological Society of America: Black Ecologist Section</title>
-      <link>https://senay.i0/post/blackecology/</link>
+      <link>https://senay.io/post/blackecology/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.i0/post/blackecology/</guid>
+      <guid>https://senay.io/post/blackecology/</guid>
       <description>In the summer of 2015, a group of faculty and students gathered at the Ecological Society of America conference in Baltimore to highlight issues affecting black ecologists. Here we use the term “black” in an inclusive manner and define as minorities of different origins and nationalities including African Americans, Africans, Caribbeans, Latinos, and Native Americans. Non-black nationals with interest in furthering the goals of the association have specific roles. We must ensure a “safe space” for many members to address some of the challenges that Black ecologists face in academia.</description>
     </item>
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://senay.i0/post/getting-started/</link>
+      <link>https://senay.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://senay.i0/post/getting-started/</guid>
+      <guid>https://senay.io/post/getting-started/</guid>
       <description>The Academic framework enables you to easily create a beautifully simple personal or academic website using the Hugo static site generator.
 Key features:
  Easily manage your homepage, blog posts, publications, talks, and projects Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact Need a different section? Just use the Custom widget! Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Table of Contents    Installation Getting Started  Core parameters Introduce yourself Customize the homepage Add your content Remove unused widgets and pages Themes Customization &amp;amp; updating  Advanced customization  Navigation menu Website icon Analytics Third party and local scripts (JS) Language and translation Permalinks Advanced style customization (CSS)  Updating Feedback &amp;amp; Contributing License    Installation  Install Hugo and create a new website by typing the following commands in your Terminal or Command Prompt app:</description>
@@ -34,38 +34,38 @@ Key features:
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>https://senay.i0/post/widgets/</link>
+      <link>https://senay.io/post/widgets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://senay.i0/post/widgets/</guid>
+      <guid>https://senay.io/post/widgets/</guid>
       <description>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:
  About/biography Selected publications Recent publications Recent news/blog posts Projects Selected talks Recent talks Contact Tag cloud Custom widget (demonstrated with the teaching example)  The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep.</description>
     </item>
     
     <item>
       <title>Managing content</title>
-      <link>https://senay.i0/post/managing-content/</link>
+      <link>https://senay.io/post/managing-content/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://senay.i0/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://senay.i0/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://senay.io/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://senay.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>https://senay.i0/post/writing-markdown-latex/</link>
+      <link>https://senay.io/post/writing-markdown-latex/</link>
       <pubDate>Sun, 17 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://senay.i0/post/writing-markdown-latex/</guid>
+      <guid>https://senay.io/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://senay.i0/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://senay.io/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://senay.i0/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://senay.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -73,10 +73,10 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Migrate from Jekyll to Hugo</title>
-      <link>https://senay.i0/post/migrate-from-jekyll/</link>
+      <link>https://senay.io/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://senay.i0/post/migrate-from-jekyll/</guid>
+      <guid>https://senay.io/post/migrate-from-jekyll/</guid>
       <description>Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s getting started guide.
 Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like</description>
     </item>
