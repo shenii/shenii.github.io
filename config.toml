@@ -1,5 +1,5 @@
 baseurl = "https://senay.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Spatial Evolution"
+title = "Spatial Evolution & Ecology"
 copyright = "&copy; 2017 Senay Yitbarek"
 theme = "hugo-academic"
 enableEmoji = true
