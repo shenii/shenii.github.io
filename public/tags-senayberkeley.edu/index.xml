@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags (senay@berkeley.edu)s on Spatial Evolution</title>
-    <link>https://senay.io/tags-senayberkeley.edu/</link>
+    <link>/tags-senayberkeley.edu/</link>
     <description>Recent content in Tags (senay@berkeley.edu)s on Spatial Evolution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Senay Yitbarek</copyright>
     
-	<atom:link href="https://senay.io/tags-senayberkeley.edu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags-senayberkeley.edu/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
