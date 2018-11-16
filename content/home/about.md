@@ -39,7 +39,7 @@ weight = 5
 
 
 
-My research focuses on the ecology and evolution of infectious diseases and species invasions. I am broadly interested in the evolutionary ecology of parasites with the overall goal of understanding how disease organisms spread, persist, and affect their host populations. 
+My research focuses on the ecology and evolution of infectious diseases and biological invasions. I am broadly interested in the evolutionary ecology of parasites with the overall goal of understanding how disease organisms spread, persist, and affect their host populations. 
 
 My current work seeks to understand how multiple infections impact evolutionary outcomes in spatially structured host populations. I am utillzing experimental evolution and mathematical modeling approaches to understand how pathogens modify virulence evolution in changing environments. 
 
