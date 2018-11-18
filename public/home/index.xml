@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Spatial Evolution &amp; Ecology</title>
-    <link>https://senay.io/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Spatial Evolution &amp; Ecology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Senay Yitbarek</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://senay.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://senay.io/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>About My research focuses on the ecology and evolution of infectious diseases and biological invasions. I am broadly interested in the evolutionary ecology of parasites with the overall goal of understanding how disease organisms spread, persist, and affect their host populations.
 My current work seeks to understand how multiple infections impact evolutionary outcomes in spatially structured host populations. I am utillzing experimental evolution and mathematical modeling approaches to understand how pathogens modify virulence evolution in changing environments.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://senay.io/home/publications_selected/</link>
+      <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://senay.io/home/publications_selected/</guid>
+      <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://senay.io/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://senay.io/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://senay.io/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://senay.io/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Outreach</title>
-      <link>https://senay.io/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://senay.io/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>The Science of Origins (Honors 242).
 Genomics in Society (EEB 142)
 Ecology and Evolution of Infectious Diseases (EEB 315).
@@ -82,19 +82,19 @@ Introductory Biology (EEB 172 &amp;amp; 173).</description>
     
     <item>
       <title>Contact</title>
-      <link>https://senay.io/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://senay.io/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     

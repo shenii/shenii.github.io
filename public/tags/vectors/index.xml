@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vectors on Spatial Evolution &amp; Ecology</title>
-    <link>https://senay.io/tags/vectors/</link>
+    <link>/tags/vectors/</link>
     <description>Recent content in Vectors on Spatial Evolution &amp; Ecology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Senay Yitbarek</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://senay.io/tags/vectors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/vectors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vector behavior and infectious disease dynamics</title>
-      <link>https://senay.io/project/vectors/</link>
+      <link>/project/vectors/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://senay.io/project/vectors/</guid>
+      <guid>/project/vectors/</guid>
       <description></description>
     </item>
     
