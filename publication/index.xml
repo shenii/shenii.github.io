@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Spatial Evolution</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Spatial Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Senay Yitbarek</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Senay Yitbarek, John H. Vandermeer, Ivette Perfecto*. 2017. Parasite mediated competition facilitates invasion (Hymenoptera: Formicidae). BioRxiv</title>
+      <link>/publication/biorxiv/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/biorxiv/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Senay Yitbarek, Ivette Perfecto, John H. Vandermeer. 2017. Competitive release from native range does not predict invasive success of a globally dominant exotic ant species. BioRxiv</title>
+      <link>/publication/bioticresistance/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bioticresistance/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Senay Yitbarek, John H. Vandermeer. 2017. Reduction of species coexistence through mixing in a spatial competition model. Theoretical ecology</title>
+      <link>/publication/theoreticalecology/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/theoreticalecology/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Senay Yitbarek, Ivette Perfecto, John H. Vandermeer. 2017. From insinuator to dominator: Foraging switching by an exotic ant. Diversity and Distributions</title>
+      <link>/publication/diversitydistributions/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/diversitydistributions/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>John H. Vandermeer, Senay Yitbarek. 2012. Self-organized spatial pattern determines biodiversity in spatial competition. Journal of Theoretical Biology</title>
+      <link>/publication/jtb/</link>
+      <pubDate>Mon, 07 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jtb/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Senay Yitbarek, John H. Vandermeer, Dave Allen. 2011. The Combined Effects of Exogenous and Endogenous Variability on the Spatial Distribution of Ant Communities in a Forested Ecosystem (Hymenoptera: Formicidae). Environmental Entomology</title>
+      <link>/publication/environmentalentomology/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/environmentalentomology/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Senay Yitbarek. 2008. Reconsidering Invasive Grass and Mowing Impacts on Native Arthropod Populations in a Restored Grassland. The Berkeley McNair Research Journal</title>
+      <link>/publication/mcnair/</link>
+      <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mcnair/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
