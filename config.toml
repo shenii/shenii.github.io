@@ -1,6 +1,6 @@
 baseurl = "https://senay.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 GoogleAnalytics = "UA-116668088-2"
-title = "Spatial Evolution & Ecology"
+title = "Spatial Ecology & Evolution"
 copyright = "&copy; 2017 Senay Yitbarek"
 theme = "hugo-academic"
 enableEmoji = true
