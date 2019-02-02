@@ -3,21 +3,22 @@
 # This widget displays publications from `content/publication/` which have
 # `selected = true` in their `+++` front matter.
 
-date = 2016-04-20
-draft = false
+#date = 2016-04-20
 
-title = "Selected Publications"
-subtitle = ""
-widget = "publications_selected"
+#draft = false
+
+#title = "Selected Publications"
+#subtitle = ""
+#widget = "publications_selected"
 
 # Order that this section will appear in.
-weight = 10
+#weight = 0
 
 # List format.
 #   0 = Simple
 #   1 = Classic
 #   2 = Detailed
-list_format = 2
+#list_format = 0
 
 # Filter by publication type.
 # -1: Any
@@ -28,6 +29,6 @@ list_format = 2
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+#publication_type = "-1"
 +++
 
