@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Evolutionary Epidemiology: Coinfection and Spatial Structuring</title>
-      <link>/project/coinfection/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/coinfection/</guid>
-      <description>My research focuses broadly on the ecology and evolution of infectious diseases. I am interested in the evolutionary ecology of how infectious disease organisms spread, persist, and affect their host populations. Classical infectious disease theory predicts that restricted dispersal favors less competitive parasites that are characterized by lower infectivity and virulence. However, evidence for such phenotypic evolution due to spatial structure in populations remains scarce. My research examines the role of spatial structure in shaping the evolution of parasite life-history traits and its consequences for disease spread.</description>
-    </item>
-    
-    <item>
       <title>Evolutionary ecology of multiple infections</title>
       <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -36,15 +27,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/invasion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vector behavior and infectious disease dynamics</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
       <description></description>
     </item>
     
