@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "The Ecology of Invasions "
+title = "Plant-Insect interactions and biological invasions in agroecosystems "
 
 # Project summary to display on homepage.
 summary = "My PhD research examined the consequences of species invasions on community dynamics.Using invasive ants as a model system, I investigated the role of direct and indirect interactions such as competition and parasitism on resident species. I further developed spatial models to understand under what conditions species can invade communities "
