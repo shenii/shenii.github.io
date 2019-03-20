@@ -3,13 +3,13 @@
 date = "2018-03-19"
 
 # Project title.
-title = "Ecological Society of America: Black Ecologist Section"
+title = "Ecological Society of America: Black Ecologists Section"
 
 # Project summary to display on homepage.
 summary = "International Association of Black Ecologists."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "blackecology.jpg"
+image_preview = "black.jpg"
 
 
 # Tags: can be used for filtering projects.
@@ -24,8 +24,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "blackecology.jpg"
-caption = "My caption :smile:"
+image = "black.jpg"
+caption = "New Orleans 2018"
 
 +++
 
