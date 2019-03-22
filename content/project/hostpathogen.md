@@ -9,7 +9,9 @@ title = "Evolutionary ecology of host-parasite interactions"
 summary = "I am studying the consequences of multiple infections for virulence evolution. Using a joint experimental evolution and modeling approach, I seek to understand how coinfection dynamics shape the evolution of pathogens across different environments."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ees.jpg"
+image_preview = "mosaic.gif" 
+
+#ees.jpg
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
