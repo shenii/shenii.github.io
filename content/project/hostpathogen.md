@@ -30,6 +30,7 @@ math = false
 
 +++
 
+![alt text](/img/spiral.gif)
 My research focuses broadly on the ecology and evolution of infectious diseases. I am interested in the evolutionary ecology of how infectious disease organisms spread, persist, and affect their host populations. Classical infectious disease theory predicts that restricted dispersal favors less competitive parasites that are characterized by lower infectivity and virulence. However, evidence for such phenotypic evolution due to spatial structure in populations remains scarce. My research examines the role of spatial structure in shaping the evolution of parasite life-history traits and its consequences for disease spread.
 
 I am investigating how co-infection dynamics impact evolutionary outcomes in spatially structured host populations. Specifically, I am addressing the following questions: 1) How does pathogen relatedness affect the outcome of co-infection? 2) How does the arrival and timing of multiple pathogens impact within-host dynamics? 3) How do co-infection dynamics alter populations of hosts and parasites? 
