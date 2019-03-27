@@ -190,7 +190,8 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "Yitbarek_Senay_November_2017_CV.pdf"
+  #url = "Yitbarek_Senay_November_2017_CV.pdf"
+  url  = "Senay_Yitbarek_CV_March_2019.pdf"
   weight = 6
   
 [[menu.main]]
