@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Plant-Insect interactions and biological invasions in agroecosystems "
+title = "Plant-Insect interactions in agroecosystems "
 
 # Project summary to display on homepage.
-summary = "My PhD research examined the consequences of species invasions on community dynamics.Using invasive ants as a model system, I investigated the role of direct and indirect interactions such as competition and parasitism on resident species. I further developed spatial models to understand under what conditions species can invade communities "
+summary = "My PhD research examined the effects of species invasions on ecological communities.Using invasive ants as a model system, I investigated the role of direct and indirect interactions, including competition and parasitism, on native ant communities. I further developed spatial models to understand under what conditions species can invade communities "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "ants.jpg"
