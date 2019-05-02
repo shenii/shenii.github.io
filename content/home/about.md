@@ -39,8 +39,8 @@ weight = 5
 
 
 
-My research focuses on the ecology and evolution of infectious diseases and invasions. I am broadly interested in the evolutionary ecology of parasites with the overall goal of understanding how disease organisms spread, persist, and affect their host populations. 
+My research focuses on the ecology and evolution of infectious diseases and species invasions. I am broadly interested in the evolutionary ecology of parasites with the overall goal of understanding how disease organisms spread, persist, and affect their host populations. 
 
-My current work seeks to understand how multiple infections impact evolutionary outcomes in spatially structured host populations. I am utillzing experimental evolution and mathematical modeling approaches to understand how pathogens modify virulence evolution in changing environments. 
+My current work seeks to understand how multiple infections impact evolutionary outcomes in host populations. I am utillzing experimental evolution and mathematical modeling approaches to understand how pathogens modify virulence evolution in changing environments.
 
-I completed my PhD in the Department of Ecology and Evolutionary Biology at the University of Michigan under the mentorship of [John Vandermeer](https://lsa.umich.edu/eeb/people/faculty/jvander.html). For my dissertation, I combined mathematical and empirical approaches to study the effects of spatial competitive networks on species coexistence patterns. Since 2017, I am an NSF Postdoctoral Fellow in Biology working with [Mike Boots](https://ib.berkeley.edu/people/faculty/bootsm) in the Department of Integrative Biology at the University of California Berkeley.
+I completed my PhD in the Department of Ecology and Evolutionary Biology at the University of Michigan under the mentorship of [John Vandermeer](https://lsa.umich.edu/eeb/people/faculty/jvander.html). For my dissertation, I combined empirical and mathematical approaches to study the effects of spatial structure and invasive species dynamics on ecological communities. Since 2017, I am an NSF Postdoctoral Fellow in Biology working with [Mike Boots](https://ib.berkeley.edu/people/faculty/bootsm) in the Department of Integrative Biology at the University of California Berkeley.
