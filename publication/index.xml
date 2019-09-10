@@ -13,7 +13,25 @@
     
     
     <item>
-      <title>Reduction of species coexistence through mixing in a spatial competition model. Theoretical ecology</title>
+      <title>Arboreal twig-nesting ants form dominance hierarchies over nesting resources (preprint: doi.org/10.1101/442632)</title>
+      <link>/publication/arborealants/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/arborealants/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Deconstructing higher-order interactions in the microbiota (preprint: doi.org/10.1101/647156)</title>
+      <link>/publication/higherorder/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/higherorder/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Reduction of species coexistence through mixing in a spatial competition model</title>
       <link>/publication/theoreticalecology/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
@@ -45,6 +63,15 @@
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>/publication/environmentalentomology/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>The community ecology of herbivore regulation in an agroecosystem: lessons from complex systems</title>
+      <link>/publication/complexity/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/complexity/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
