@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "senay4.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "senay@berkeley.edu"
+  email = "senay@unc.edu"
   address = "Department of Integrative Biology,University of California Berkeley,VLSB      5017, Berkeley,  California  94720.  USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
@@ -140,7 +140,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "senay@berkeley.edu"
+    link = "senay@unc.edu"
 
   [[params.social]]
     icon = "twitter"
